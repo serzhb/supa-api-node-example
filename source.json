@@ -1,0 +1,231 @@
+{
+    "size": [
+        854,
+        480
+    ],
+    "slides": [
+        {
+            "duration": 7000,
+            "type": "background",
+            "source": "image",
+            "filter": "dark",
+            "animation": "zoomIn",
+            "path": "https://supa-uploads.s3.amazonaws.com/1/ouzwsheyythb.jpg",
+            "color": "#ffffff",
+            "transition_animation": "none",
+            "objects": [
+                {
+                    "start": 1600,
+                    "end": 7000,
+                    "type": "text",
+                    "text": "руб",
+                    "x": 756,
+                    "y": 39,
+                    "width": 200,
+                    "width_auto": "auto",
+                    "height": 80,
+                    "height_auto": "auto",
+                    "entrance_animation": "fadeIn",
+                    "exit_animation": "fadeOut",
+                    "style": {
+                        "font_family": "Open Sans",
+                        "font_size": 19,
+                        "color": "rgba(255,255,255,1)",
+                        "bold": false,
+                        "italic": false,
+                        "underline": false,
+                        "shadow": false,
+                        "border_radius": 0,
+                        "border_style": "solid",
+                        "stroke": "",
+                        "line_height": 1.3,
+                        "extra_color": "#ffd800",
+                        "text_transform": "uppercase"
+                    },
+                    "ongoing_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "entrance_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "exit_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "rotate": 0,
+                    "ongoing_animation": "none"
+                },
+                {
+                    "start": 1500,
+                    "end": 7000,
+                    "type": "rect",
+                    "x": 753,
+                    "y": 42,
+                    "width": 60,
+                    "width_auto": false,
+                    "height": 28,
+                    "height_auto": false,
+                    "entrance_animation": "fadeIn",
+                    "exit_animation": "fadeOut",
+                    "style": {
+                        "background": "rgb(0, 156, 190)",
+                        "border_color": "rgba(255,255,255,1.0)",
+                        "border_radius": 0,
+                        "border_style": "solid",
+                        "stroke": "",
+                        "line_height": 1.3,
+                        "extra_color": "#ffd800"
+                    },
+                    "ongoing_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "entrance_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "exit_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "rotate": 0,
+                    "ongoing_animation": "none"
+                },
+                {
+                    "start": 1200,
+                    "end": 7000,
+                    "type": "text",
+                    "text": "%PRICE%",
+                    "x": 485,
+                    "y": 23,
+                    "width": 267,
+                    "width_auto": false,
+                    "height": 74,
+                    "height_auto": "auto",
+                    "entrance_animation": "speedInUp",
+                    "exit_animation": "fadeOut",
+                    "style": {
+                        "font_family": "Open Sans",
+                        "font_size": 51,
+                        "color": "rgba(255,255,255,1)",
+                        "bold": true,
+                        "italic": false,
+                        "underline": false,
+                        "shadow": false,
+                        "line_height": 1.3,
+                        "border_radius": 0,
+                        "border_style": "solid",
+                        "stroke": "",
+                        "extra_color": "#ffd800",
+                        "text_align": "right",
+                        "text_transform": "none"
+                    },
+                    "rotate": 0,
+                    "entrance_animation_properties": {
+                        "speed": 1,
+                        "easing": "easeOutCubic"
+                    },
+                    "ongoing_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "exit_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "ongoing_animation": "none"
+                },
+                {
+                    "start": 500,
+                    "end": 7000,
+                    "type": "text",
+                    "text": "%DESC%",
+                    "x": 30,
+                    "y": 346,
+                    "width": 713,
+                    "width_auto": false,
+                    "height": 90,
+                    "height_auto": "auto",
+                    "entrance_animation": "fadeInDown",
+                    "exit_animation": "fadeOut",
+                    "style": {
+                        "font_family": "Open Sans",
+                        "font_size": 21,
+                        "color": "rgba(255,255,255,1)",
+                        "bold": false,
+                        "italic": false,
+                        "underline": false,
+                        "shadow": false,
+                        "border_radius": 0,
+                        "border_style": "solid",
+                        "stroke": "",
+                        "line_height": 1.3,
+                        "extra_color": "#ffd800"
+                    },
+                    "ongoing_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "entrance_animation_properties": {
+                        "speed": 0.7,
+                        "easing": "linear"
+                    },
+                    "exit_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "rotate": 0,
+                    "ongoing_animation": "none"
+                },
+                {
+                    "start": 0,
+                    "end": 7000,
+                    "type": "text",
+                    "text": "%NAME%",
+                    "x": 27,
+                    "y": 276,
+                    "width": 751,
+                    "width_auto": false,
+                    "height": 66,
+                    "height_auto": "auto",
+                    "entrance_animation": "speedInLeft",
+                    "exit_animation": "fadeOut",
+                    "style": {
+                        "font_family": "Open Sans",
+                        "font_size": 46,
+                        "color": "rgba(255,255,255,1)",
+                        "bold": false,
+                        "italic": false,
+                        "underline": false,
+                        "shadow": false,
+                        "border_radius": 0,
+                        "border_style": "solid",
+                        "stroke": "",
+                        "line_height": 1.3,
+                        "extra_color": "#ffd800"
+                    },
+                    "ongoing_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "entrance_animation_properties": {
+                        "speed": 1,
+                        "easing": "easeOutCubic"
+                    },
+                    "exit_animation_properties": {
+                        "speed": 1,
+                        "easing": "linear"
+                    },
+                    "rotate": 0,
+                    "ongoing_animation": "none"
+                }
+            ]
+        },
+        {
+            "type": "shared",
+            "objects": []
+        }
+    ]
+}
